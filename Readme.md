@@ -13,11 +13,13 @@
 # Task Guideline
 - A.Import Libraries and data screening
     1.First 5 Rows
+
     2.Shape of the Data Set
+
     3.Get Information About Our Dataset Like Total Number Rows, Total Number of Columns, Datatypes of Each Column And Memory Requirement bold text
     
 - B.Data cleaning
-   - 5.Check Null Values In The Dataset bold text
+    - 5.Check Null Values In The Dataset bold text
 6. Data Preprocessing
    -○	Rename the column price_rupiah to KES price (TO the currency of your choice).
     ○	Remove 'Rp' and commas from the price column and converted it to integers.
